@@ -1,0 +1,4 @@
+rocket\entity\TestEntity.class
+rocket\entity\Session.class
+rocket\RocketApplication.class
+rocket\service\TestService.class
